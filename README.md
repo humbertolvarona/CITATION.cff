@@ -90,3 +90,18 @@ The generator was built on a few key principles:
 *   **Responsive Design:** The interface is fully responsive and provides a seamless experience whether you are on a large desktop monitor or a mobile device.
 *   **Privacy First:** The tool is 100% client-side. No form data, user activity, or metadata is tracked, collected, or sent to a server. Your work remains entirely private to you.
 *   **Zero Dependencies:** The application is self-contained and does not rely on any external frameworks or libraries, making it lightweight, fast, and secure.
+
+---
+
+## License
+
+This project is licensed under the international CC0 Public Domain Dedication.
+
+This means you are free to use, modify, distribute, and build upon this software for any purpose, without any restrictions, including commercial use, and without the need for attribution. No copyright is claimed by the author, and all related rights are waived worldwide to the fullest extent allowed by law.
+
+While attribution is not legally required, credit to the original author is appreciated.
+
+## Attribution
+
+Author: HL Varona ([humbertovarona@gmail.com](mailto:humbertovarona@gmail.com)).
+
